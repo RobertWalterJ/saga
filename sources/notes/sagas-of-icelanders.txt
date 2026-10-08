@@ -1,0 +1,94 @@
+{"kind":"culture","title":"Sagas of Icelanders","revid":1377710685,"timestamp":"2026-09-30T18:47:53Z","url":"https://en.wikipedia.org/w/index.php?title=Sagas_of_Icelanders&oldid=1377710685","license":"CC BY-SA 4.0, Wikipedia contributors"}
+The sagas of Icelanders (Icelandic: Íslendingasögur, modern Icelandic pronunciation: [ˈislɛndiŋkaˌsœːɣʏr̥]), also known as family sagas, are a subgenre, or text group, of Icelandic sagas. They are prose narratives primarily based on historical events that mostly took place in Iceland in the ninth, tenth, and early eleventh centuries, during the Saga Age. They were written in Old Icelandic, a western dialect of Old Norse, primarily on calfskin. They are the best-known specimens of Icelandic literature.
+They are focused on history, especially genealogical and family history. They reflect the struggle and conflict that arose within the societies of the early generations of Icelandic settlers. The Icelandic sagas are valuable and unique historical sources about medieval Scandinavian societies and kingdoms, in particular regarding pre-Christian religion and culture and the heroic age.
+Eventually, many of these Icelandic sagas were recorded, mostly in the 13th and 14th centuries. The 'authors', or rather recorders, of these sagas are largely unknown. One saga, Egil's Saga, is believed by some scholars to have been written by Snorri Sturluson, a descendant of the saga's hero, but this remains uncertain. The standard modern edition of Icelandic sagas is produced by Hið íslenzka fornritafélag ('The Old Icelandic Text Society'), or Íslenzk fornrit for short.
+
+
+== Historical time frame ==
+Among the several literary reviews of the sagas is the Sagalitteraturen by Sigurður Nordal, which divides the sagas into five chronological groups (depending on when they were written not their subject matters) distinguished by the state of literary development:
+
+1200 to 1230 – Sagas that deal with skalds (such as Fóstbrœðra saga)
+1230 to 1280 – Family sagas (such as Laxdæla saga)
+1280 to 1300 – Works that focus more on style and storytelling than just writing down history (such as Njáls saga)
+Early fourteenth century – Historical tradition
+Fourteenth century – Fiction
+This framework has been severely criticised as based on a presupposed attitude to the fantastic and an over-estimation on the precedence of Landnámabók.
+
+
+== List of sagas ==
+Atla saga Ótryggssonar
+Bandamanna saga
+Bárðar saga Snæfellsáss
+Bjarnar saga Hítdælakappa
+Droplaugarsona saga
+Egils saga Skalla-Grímssonar – Egil's Saga
+Eiríks saga rauða – Saga of Erik the Red
+Eyrbyggja saga
+Færeyinga saga
+Finnboga saga ramma
+Fljótsdæla saga
+Flóamanna saga
+Fóstbræðra saga (two versions)
+Gísla saga Súrssonar, (two versions) of an outlaw poet – Gísla saga
+Grettis saga – Saga of Grettir the Strong
+Grænlendinga saga – Greenland saga
+Gull-Þóris saga
+Gunnars saga Keldugnúpsfífls
+Gunnlaugs saga ormstungu
+Hallfreðar saga (two versions)
+Harðar saga ok Hólmverja
+Hávarðar saga Ísfirðings
+Heiðarvíga saga
+Hrafnkels saga
+Hrana saga hrings (post-medieval)
+Hænsna-Þóris saga
+Íslendingabók (One of the earliest sagas written about the founding of Iceland by a priest called Ari Þorgilsson working in the early 12th century)
+Kjalnesinga saga
+Kormáks saga
+Króka-Refs saga
+Laxdæla saga
+Ljósvetninga saga (two versions)
+Njáls saga
+Reykdæla saga ok Víga-Skútu
+Skáld-Helga saga (known only from rímur and later derivations of these)
+Svarfdæla saga
+Valla-Ljóts saga
+Vatnsdæla saga
+Víga-Glúms saga
+Víglundar saga
+Vápnfirðinga saga
+Þorsteins saga hvíta
+Þorsteins saga Síðu-Hallssonar
+Þórðar saga hreðu
+Ölkofra saga
+It is thought that a number of sagas are now lost, including the supposed Gauks saga Trandilssonar – The saga of Gaukur á Stöng. In addition to these, the texts often referred to as the "Tales of Icelanders" (Íslendingaþættir) such as "Hreiðars þáttr" and "Sneglu-Halla þáttr" of the kings' saga Morkinskinna could be included in this corpus, as well as the contemporary sagas (written in the 13th century and dealing with the same period) incorporated into Sturlunga saga.
+
+
+== See also ==
+Norse saga
+Family saga
+
+
+== References ==
+
+
+== Further reading ==
+Arnold, Martin (2003). The Post-Classical Icelandic Family Saga. Lewiston, New York: Edwin Mellen Press
+Ármann Jakobsson (2013). Nine Saga Studies: The Critical Interpretation of the Icelandic Sagas. Reykjavík: University of Iceland Press. ISBN 9-789-97954997-0. OCLC 855995457
+Bampi, Massimiliano, Carolyne Larrington and Sif Rikhardsdottir (eds.) A Critical Companion to Old Norse Literary Genre. Studies in Old Norse Literature 5. D. S. Brewer. Woodbridge, 2020
+Falk, Oren. 2021. Violence and Risk in Medieval Iceland: This Spattered Isle. Oxford University Press.
+Karlsson, Gunnar (2000). The History of Iceland. Minneapolis: University of Minnesota Press
+Liestøl, Knut (1930). The Origin of the Icelandic Family Sagas. Translated by Jayne, Arthur Garland. Cambridge, Massachusetts: Harvard University Press. ISBN 9780837172538.
+Miller, William Ian (2009). Bloodtaking and Peacemaking: Feud, Law, and Society in Saga Iceland. Chicago: University of Chicago Press. ISBN 9780226526829. OCLC 781292936
+Mundal, Else (ed.) Dating the Sagas: Reviews and Revisions. Museum Tusculanum, 2013.
+Smiley, Jane; Kellogg, Robert Leland (2001). The Sagas of Icelanders: a selection. New York: Penguin Books. ISBN 9780141000039. OCLC 492636430
+Viðar Hreinsson (eds.) (1997). The Complete Sagas of Icelanders. 5 vols. Reykjavík: Leifur Eiriksson Publishing. ISBN 9789979929307. OCLC 44999940 – see sagas.is
+
+
+== External links ==
+Icelandic Saga Database – many sagas of Icelanders, along with some translations into English and other languages
+Proverbs and Proverbial Materials in the Old Icelandic Sagas from the University of Alaska
+Icelandic sagas – a selection in Old Norse
+Sagnanet – photographs of some of the original manuscripts
+Harmony of the Vinland voyages Archived 2017-06-03 at the Wayback Machine
+Icelandic Saga Map – an online digital map with the geo-referenced texts of all of the Íslendingasögur

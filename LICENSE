@@ -20,24 +20,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
----
-
-THIS LICENCE COVERS THE CODE ONLY.
-
-The corpus, dictionaries, sentences, recordings and quoted history in this
-repository belong to other projects and remain under their own licences, all
-of which require attribution. They are listed in SOURCES.md and credited on
-the app's own About page:
-
-  HKCanCor (Luke & Wong)                       CC BY 4.0
-  rime-cantonese (CanCLID)                     CC BY 4.0
-  CC-Canto (Pleco Software)                    CC BY-SA 3.0
-  CC-CEDICT                                    CC BY-SA 4.0
-  English Wiktionary, via kaikki.org           CC BY-SA 3.0
-  Unihan (Unicode Consortium)                  Unicode licence
-  Tatoeba sentences                            CC BY 2.0 FR
-  Tatoeba audio (cantonesespoken)              CC BY 4.0
-  J. D. Belshaw, Canadian History (BCcampus)   CC BY 4.0
-
-Anything derived from the CC BY-SA sources carries the ShareAlike obligation
-with it.
+The licence above covers the program code. The word list, questions, notes and
+audio are made from other people's open data and carry their own licences:
+see CREDITS.md.

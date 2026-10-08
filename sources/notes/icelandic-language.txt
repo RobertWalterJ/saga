@@ -1,0 +1,123 @@
+{"kind":"language","title":"Icelandic language","revid":1377931705,"timestamp":"2026-10-02T00:52:38Z","url":"https://en.wikipedia.org/w/index.php?title=Icelandic_language&oldid=1377931705","license":"CC BY-SA 4.0, Wikipedia contributors"}
+Icelandic (  ice-LAN-dick; endonym: íslenska, pronounced [ˈi(ː)stlɛnska] , íslensk tunga [ˈi(ː)stlɛnsk ˈtʰuŋka]) is a North Germanic language from the Indo-European language family spoken by about 390,000 people, the vast majority of whom live in Iceland, where it is the national language. Since it is a West Scandinavian language, it is most closely related to Faroese, western Norwegian dialects, and the extinct language Norn. It is not mutually intelligible with the continental Scandinavian languages (Danish, Norwegian, and Swedish) and is more distinct from the most widely spoken Germanic languages, English and German. The written forms of Icelandic and Faroese are very similar, but their spoken forms are not mutually intelligible.
+The Icelandic language is more conservative than most other Germanic languages. Most have greatly reduced levels of inflection (particularly noun declension), but Icelandic retains a four-case synthetic grammar (comparable to German, though considerably more conservative and synthetic) and is distinguished by a wide assortment of irregular declensions. Icelandic vocabulary is also deeply conservative, with the country's language regulator maintaining an active policy of coining terms based on older Icelandic words rather than directly taking in loanwords from other languages.
+Aside from the 300,000 Icelandic speakers in Iceland, Icelandic is spoken by about 8,000 people in Denmark, 5,000 people in the United States, and more than 1,400 people in Canada, notably in the region known as New Iceland in Manitoba which was settled by Icelanders beginning in the 1880s.
+The state-funded Árni Magnússon Institute for Icelandic Studies serves as a centre for preserving the medieval Icelandic manuscripts and studying the language and its literature. The Icelandic Language Council, comprising representatives of universities, the arts, journalists, teachers, and the Ministry of Culture, Science and Education, advises the authorities on language policy. Since 1995, on 16 November each year, the birthday of 19th-century poet Jónas Hallgrímsson is celebrated as Icelandic Language Day.
+
+
+== Classification ==
+
+Icelandic is an Indo-European language and belongs to the North Germanic group of the Germanic languages. Icelandic is further classified as a West Scandinavian language. Icelandic is derived from an earlier language Old Norse, which later became Old Icelandic and currently Modern Icelandic. The division between old and modern Icelandic is said to be before and after 1540.
+
+
+== History ==
+
+Around 900 CE, the language spoken in the Faroes was Old Norse, which Norse settlers had brought with them during the time of the settlement of Faroe Islands (landnám) that began in 825. However, many of the settlers were not from Scandinavia, but descendants of Norse settlers in the Irish Sea region. In addition, women from Norse Ireland, Orkney, or Shetland often married native Scandinavian men before settling in the Faroe Islands and Iceland. 
+The oldest preserved texts in Icelandic were written around 1100. Many of the texts are based on poetry and laws traditionally preserved orally. The most famous of the texts, which were written in Iceland from the 12th century onward, are the sagas of Icelanders, which encompass the historical works and the Poetic Edda.
+The language of the sagas is Old Icelandic, a western dialect of Old Norse. The Dano-Norwegian, then later Danish rule of Iceland from 1536 to 1918 had little effect on the evolution of Icelandic (in contrast to the Norwegian language), which remained in daily use among the general population. Though more archaic than the other living Germanic languages, Icelandic changed markedly in pronunciation from the 12th to the 16th century, especially in vowels (in particular, á, æ, au, and y/ý). The letters -ý & -y lost their original meaning and merged with -í & -i in the period 1400–1600. Around the same time or a little earlier the letter -æ originally signifying a simple vowel, a type of open -e, formed into the double vowel -ai, a double vowel absent in the original Icelandic.
+The modern Icelandic alphabet has developed from a standard established in the 19th century, primarily by the Danish linguist Rasmus Rask. It is based strongly on an orthography laid out in the early 12th century by a document referred to as the First Grammatical Treatise by an anonymous author, who has later been referred to as the First Grammarian. The later Rasmus Rask standard was a re-creation of the old treatise, with some changes to fit concurrent Germanic conventions, such as the exclusive use of k rather than c. Various archaic features, such as the letter ð, had not been used much in later centuries. Rask's standard constituted a major change in practice. Later 20th-century changes include the use of é instead of je and the replacement of z with s in 1974.
+Apart from the addition of new vocabulary, written Icelandic has not changed substantially since the 11th century, when the first texts were written on vellum. Modern speakers can understand the original sagas and Eddas which were written about eight hundred years ago. The sagas are usually read with updated modern spelling and footnotes, but otherwise are intact (as with recent English editions of Shakespeare's works). With some effort, many Icelanders can also understand the original manuscripts.
+
+
+== Legal status and recognition ==
+According to an act passed by the Parliament in 2011, Icelandic is "the national language of the Icelandic people and the official language in Iceland"; moreover, "[p]ublic authorities shall ensure that its use is possible in all areas of Icelandic society".
+Iceland is a member of the Nordic Council, a forum for co-operation between the Nordic countries, but the council uses only Danish, Norwegian, and Swedish as its working languages (although the council does publish material in Icelandic). Under the Nordic Language Convention, since 1987 Icelandic citizens have had the right to use Icelandic when interacting with official bodies in other Nordic countries, without becoming liable for any interpretation or translation costs. The convention covers visits to hospitals, job centres, the police, and social security offices. It does not have much effect since it is not very well known and because those Icelanders not proficient in the other Scandinavian languages often have a sufficient grasp of English to communicate with institutions in that language (although there is evidence that the general English skills of Icelanders have been somewhat overestimated). The Nordic countries have committed to providing services in various languages to each other's citizens, but this does not amount to any absolute rights being granted, except as regards criminal and court matters.
+
+
+== Phonology ==
+
+
+=== Consonants ===
+All Icelandic stops are voiceless and are distinguished as such by aspiration. Stops are realised post-aspirated when at the beginning of the word, but pre-aspirated when occurring within a word.
+
+/n̥ n tʰ t/ are laminal denti-alveolar, /s/ is apical alveolar, /θ ð/ are alveolar non-sibilant fricatives; the former is laminal, while the latter is usually apical.
+A phonetic analysis reveals that the voiceless lateral approximant [l̥] is, in practice, usually realised with considerable friction, especially word-finally or syllable-finally, i. e., essentially as a voiceless alveolar lateral fricative [ɬ].
+/j̊/ are phonetic to Einarsson and Haugen, but are always indistinguishable from [ç].
+Scholten (2000, p. 22) includes three extra phones: [ʔ l̥ˠ lˠ].
+Word-final voiced consonants are devoiced pre-pausally, so that dag ('day (acc.)') is pronounced as [ˈtaːx] and dagur ('day (nom.)') is pronounced [ˈtaːɣʏr̥].
+
+
+=== Vowels ===
+
+Icelandic has 8 monophthongs and 5 diphthongs. The diphthongs are created by taking a monophthong and adding either /i/ or /u/ to it. All the vowels can either be long or short; vowels in open syllables are long, and vowels in closed syllables are short.
+
+
+== Grammar ==
+
+Icelandic retains many grammatical features of other ancient Germanic languages, and resembles Old Norwegian before much of its fusional inflection was lost. Modern Icelandic is still a heavily inflected language with four cases: nominative, accusative, dative and genitive. Icelandic nouns can have one of three grammatical genders: masculine, feminine or neuter. There are two main declension paradigms for each gender: strong and weak nouns, and these are further divided into subclasses of nouns, based primarily on the genitive singular and nominative plural endings of a particular noun. For example, within the strong masculine nouns, there is a subclass (class 1) that declines with -s (hests) in the genitive singular and -ar (hestar) in the nominative plural. However, there is another subclass (class 3) of strong masculine nouns that always declines with -ar (hlutar) in the genitive singular and -ir (hlutir) in the nominative plural. Additionally, Icelandic permits a quirky subject, that is, certain verbs have subjects in an oblique case (i.e. other than the nominative).
+Nouns, adjectives and pronouns are declined in the four cases and for number in the singular and plural.
+Verbs are conjugated for tense, mood, person, number and voice. There are three voices: active, passive and middle (or medial), but it may be debated whether the middle voice is a voice or simply an independent class of verbs of its own, as every middle-voice verb has an active-voice ancestor, but sometimes with drastically different meaning, and the middle-voice verbs form a conjugation group of their own. Examples are koma ("come") vs. komast ("get there"), drepa ("kill") vs. drepast ("perish ignominiously") and taka ("take") vs. takast ("manage to"). Verbs have up to ten tenses, but Icelandic, like English, forms most of them with auxiliary verbs. There are three or four main groups of weak verbs in Icelandic, depending on whether one takes a historical or a formalistic view: -a, -i, and -ur, referring to the endings that these verbs take when conjugated in the first person singular present.
+Almost all Icelandic verbs have the ending -a in the infinitive, some with á, two with u (munu, skulu), one with o (þvo: "wash") and one with e. Many transitive verbs (i.e. they require an object), can take a reflexive pronoun instead. The case of the pronoun depends on the case that the verb governs. As for further classification of verbs, Icelandic behaves much like other Germanic languages, with a main division between weak verbs and strong, and the strong verbs, of which there are about 150 to 200, are divided into six classes plus reduplicative verbs.
+The basic word order in Icelandic is subject–verb–object. However, as words are heavily inflected, the word order is fairly flexible, and every combination may occur in poetry; SVO, SOV, VSO, VOS, OSV and OVS are all allowed for metrical purposes. However, as with most Germanic languages, Icelandic usually complies with the V2 word order restriction, so the conjugated verb in Icelandic usually appears as the second element in the clause, preceded by the word or phrase being emphasised. For example:
+
+Ég veit það ekki. (I know it not.)
+Ekki veit ég það. (Not know I it.)
+Það veit ég ekki. (It know I not.)
+Ég fór til Bretlands þegar ég var eins árs. (I went to Britain when I was one year old.)
+Til Bretlands fór ég þegar ég var eins árs. (To Britain went I, when I was one year old.)
+Þegar ég var eins árs fór ég til Bretlands. (When I was one year old, went I to Britain.)
+In the above examples, the conjugated verbs veit and fór are always the second element in their respective clauses.
+A distinction between formal and informal address (T–V distinction) had existed in Icelandic from the 17th century, but use of the formal variant weakened in the 1950s and rapidly disappeared. It no longer exists in regular speech, but may occasionally be found in pre-written speeches addressed to the bishop and members of parliament.
+
+
+== Vocabulary ==
+
+Early Icelandic vocabulary was largely Old Norse with a few words being Celtic from when Celts first settled in Iceland. The introduction of Christianity to Iceland in the 11th century brought with it a need to describe new religious concepts. The majority of new words were taken from other Scandinavian languages; kirkja ("church"), for example. Numerous other languages have influenced Icelandic: French brought many words related to the court and knightship; words in the semantic field of trade and commerce have been borrowed from Low German because of trade connections. In the late 18th century, linguistic purism began to gain noticeable ground in Iceland and since the early 19th century it has been the linguistic policy of the country. Nowadays, it is common practice to coin new compound words from Icelandic derivatives.
+Icelandic personal names are patronymic (and sometimes matronymic) in that they reflect the immediate father or mother of the child and not the historic family lineage. This system, which was formerly used throughout the Nordic area and beyond, differs from most Western systems of family name. In most Icelandic families, the ancient tradition of patronymics is still in use; i.e. a person uses their father's name (usually) or mother's name (increasingly in recent years) in the genitive form followed by the morpheme -son ("son") or -dóttir ("daughter") in lieu of family names.
+In 2019, changes were announced to the laws governing names. Icelanders who are officially registered with non-binary gender will be permitted to use the suffix -bur ("child of") instead of -son or -dóttir.
+
+
+=== Language policy ===
+A core theme of Icelandic language ideologies is grammatical, orthographic and lexical purism for Icelandic. This is evident in general language discourses, in polls, and in other investigations into Icelandic language attitudes. The general consensus on Icelandic language policy has come to mean that language policy and language ideology discourse are not predominantly state or elite driven; but rather, remain the concern of lay people and the general public. The Icelandic speech community is perceived to have a protectionist language culture, however, this is deep-rooted ideologically primarily in relation to the forms of the language, while Icelanders in general seem to be more pragmatic as to domains of language use.
+
+
+=== Linguistic purism ===
+
+Since the late 16th century, discussion has been ongoing on the purity of the Icelandic language. The bishop Oddur Einarsson wrote in 1589 that the language has remained unspoiled since the time the ancient literature of Iceland was written. Later in the 18th century the purism movement grew and more works were translated into Icelandic, especially in areas that Icelandic had hardly ever been used in. Many neologisms were introduced, with many of them being loan-translations. In the early 19th century, due to the influence of romanticism, importance was put on the purity of spoken language as well. The written language was also brought closer to the spoken language, as the sentence structure of literature had previously been influenced by Danish and German.
+The changes brought by the purism movement have had the most influence on the written language, as many speakers use foreign words freely in speech but try to avoid them in writing. The success of the many neologisms created from the movement has also been variable as some loanwords have not been replaced with native ones. There is still a conscious effort to create new words, especially for science and technology, with many societies publishing dictionaries, some with the help of The Icelandic Language Committee (Íslensk málnefnd).
+
+
+== Writing system ==
+
+The Icelandic alphabet is notable for its retention of three old letters that no longer exist in the English alphabet: Þ, þ (þorn, modern English "thorn"), Ð, ð (eð, anglicised as "eth" or "edh") and Æ, æ (æsc, anglicised as "ash" or "asc"), with þ and ð representing the voiceless and voiced "th" sounds (as in English thin and this), respectively, and æ representing the diphthong /ai/ (as in English ride). The complete Icelandic alphabet is:
+
+The letters with diacritics, such as á and ö, are for the most part treated as separate letters and not variants of their derivative vowels. The letter é officially replaced je in 1929, although it had been used in early manuscripts (until the 14th century) and again periodically from the 18th century. The letter z was originally in the Icelandic alphabet, but it was retired in 1973, and gradually stopped being used after the 1980s, except in foreign imports and people's names.
+
+
+== Sample ==
+
+
+=== Universal Declaration of Human Rights ===
+The following is a sample text of Article 1 of the Universal Declaration of Human Rights. This section lists two major versions: the first sample is found on the United Nations website and in an illustrated book co-edited by the Icelandic Human Rights Office and Iceland's Ministry of foreign affairs. The first line is the orthographic version; the second is the International Phonetic Alphabet transciption; the third is the gloss.
+
+The second sample by the United Nations Information Centre of Denmark is found on the OHCHR website.
+
+
+=== The North Wind and the Sun ===
+The following is a sample text consisting of the first sentence of the fable "The North Wind and the Sun". The first line is the orthographic version; the second is the International Phonetic Alphabet transciption; the third is the gloss. Recordings are available on Jo Verhoeven's personal website.
+
+
+== See also ==
+Basque–Icelandic pidgin (a pidgin that was used to trade with Basque whalers)
+Icelandic exonyms
+Icelandic literature
+Icelandic name
+
+
+== References ==
+
+
+=== Notes ===
+
+
+=== Citations ===
+
+
+=== Bibliography ===
+
+
+== External links ==
+
+The Árni Magnússon Institute for Icelandic Studies
+Íðorðabankinn, dictionary for technical words.
+Collection of Icelandic bilingual dictionaries

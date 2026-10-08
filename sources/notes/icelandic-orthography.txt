@@ -1,0 +1,60 @@
+{"kind":"language","title":"Icelandic orthography","revid":1378539947,"timestamp":"2026-10-04T23:09:49Z","url":"https://en.wikipedia.org/w/index.php?title=Icelandic_orthography&oldid=1378539947","license":"CC BY-SA 4.0, Wikipedia contributors"}
+Icelandic orthography uses a Latin-script alphabet which has 32 letters. Compared with the 26 letters of the English alphabet, the Icelandic alphabet lacks C, Q, W, and Z, but additionally has Ð, Þ, Æ, and Ö. Six letters have forms with acute accents to produce Á, É, Í, Ó, Ú and Ý. 
+The letters eth (⟨ð⟩, capital ⟨Ð⟩), transliterated as ⟨dh⟩, and thorn (⟨þ⟩, capital ⟨Þ⟩), transliterated as ⟨th⟩, are widely used in the Icelandic language. Eth is also used in Faroese and Elfdalian, while thorn was used in many historical languages such as Old English. The letters ⟨æ⟩ (capital ⟨Æ⟩) and ⟨ö⟩ (capital ⟨Ö⟩) are considered completely separate letters in Icelandic and are collated as such, even though they originated as a ligature and a diacritical version respectively. 
+Icelandic words never start with ⟨ð⟩, which means its capital ⟨Ð⟩ occurs only when words are spelled in all capitals.  The alphabet is as follows:
+
+The above table has 33 letters, including the letter Z which is obsolete but may be found in older texts, e.g. verzlun became verslun.
+
+The names of the letters are grammatically neuter (except the now obsolete ⟨z⟩ which is grammatically feminine).
+The letters ⟨a⟩, ⟨á⟩, ⟨e⟩, ⟨é⟩, ⟨i⟩, ⟨í⟩, ⟨o⟩, ⟨ó⟩, ⟨u⟩, ⟨ú⟩, ⟨y⟩, ⟨ý⟩, ⟨æ⟩ and ⟨ö⟩ are considered vowels, and the remainder are consonants.
+⟨c⟩ (sé, [sjɛː]), ⟨q⟩ (kú, [kʰuː]) and ⟨w⟩ (tvöfalt vaff, [ˈtʰvœːfal̥t ˌvafː]) are only used in Icelandic in words of foreign origin and some proper names that are also of foreign origin. Otherwise, ⟨c⟩, ⟨qu⟩, and ⟨w⟩ are replaced by ⟨k/s/ts⟩, ⟨hv⟩, and ⟨v⟩ respectively. (In fact, ⟨hv⟩ etymologically corresponds to Latin ⟨qu⟩ and English ⟨wh⟩ in words inherited from Proto-Indo-European: Icelandic hvað, Latin quod, English what.)
+⟨z⟩ (seta, [ˈsɛːta]) was used until 1973, when it was retired, as it was only present for etymological reasons. It originally represented an affricate [t͡s], which arose from the combinations ⟨t⟩+⟨s⟩, ⟨d⟩+⟨s⟩, ⟨ð⟩+⟨s⟩; however, in modern Icelandic, it came to be pronounced [s], and since it was a letter that was kind of redundant, it was decided in 1973 to replace all native instances of ⟨z⟩ with ⟨s⟩. However, one of the most important newspapers in Iceland, Morgunblaðið, still uses it sometimes (although very rarely), a hot-dog chain, Bæjarins Beztu Pylsur, and a secondary school, Verzlunarskóli Íslands have it in their names. It is also found in some proper names (e.g. Zakarías, Haralz, Zoëga), and loanwords such as pizza (also written pítsa). Older people who were educated before the abolition of the ⟨z⟩ sometimes also use it. Prior to the 1973 reform, the letter ⟨z⟩ in Icelandic was restricted to the middle or end of word stems to represent specific historical consonant collapses. Consequently, native Icelandic vocabulary never began with the letter ⟨z⟩, with initial usage limited to foreign loanwords or names.
+While ⟨c⟩, ⟨q⟩, ⟨w⟩, and ⟨z⟩ are found on the Icelandic keyboard, they are rarely used in Icelandic; they are used in some proper names of Icelanders, mainly family names (family names are the exception in Iceland). ⟨c⟩ is used on road signs (to indicate city centre) according to European regulation, and cm is used for the centimetre according to the international SI system (while it may be written out as sentimetri). Many believe these letters should be included in the alphabet, as its purpose is a tool to collate (sort into the correct order), and practically that is done, i.e. computers treat the alphabet as a superset of the English alphabet. The alphabet as taught in schools up to about 1980 has these 36 letters (and computers still order this way): Aa, Áá, Bb, Cc, Dd, Ðð, Ee, Éé, Ff, Gg, Hh, Ii, Íí, Jj, Kk, Ll, Mm, Nn, Oo, Óó, Pp, Qq, Rr, Ss, Tt, Uu, Úú, Vv, Ww, Xx, Yy, Ýý, Zz, Þþ, Ææ, Öö.
+
+
+== History ==
+The modern Icelandic alphabet developed from a standard established in the 19th century (primarily by Danish linguist Rasmus Rask). It is ultimately based heavily on an orthographic standard created in the early 12th century by a document referred to as The First Grammatical Treatise, author unknown. The standard was intended for the common North Germanic language Old Norse. It did not have much influence, however, at the time.
+The most defining characteristics of the alphabet were established in the old treatise:
+
+Use of the acute accent (originally to signify vowel length).
+Use of ⟨þ⟩, also used in the Old English alphabet as the letter thorn.
+The later Rasmus Rask standard was a re-enactment of the old treatise, with some changes to fit concurrent North Germanic conventions, such as the exclusive use of ⟨k⟩ rather than ⟨c⟩. Various old features, like ⟨ð⟩, had not seen much use in the later centuries, so Rask's standard constituted a major change in practice.
+Later 20th-century changes are most notably the adoption of ⟨é⟩, which had previously been written as ⟨je⟩ (reflecting the modern pronunciation), and the replacement of ⟨z⟩ with ⟨s⟩ in 1973.
+
+
+== Spelling-to-sound correspondence ==
+This section lists Icelandic letters and letter combinations and their phonemic representation in the International Phonetic Alphabet.
+
+
+=== Vowels ===
+Icelandic vowels may be either long or short, but this distinction is only relevant in stressed syllables: unstressed vowels are neutral in quantitative aspect. The vowel length is determined by the consonants that follow the vowel: if there is only one consonant before another vowel or at the end of the word (i.e., CVCV or CVC# syllable structure), the vowel is long; if there are more than one (CVCCV), counting geminates and pre-aspirated stops as CC, the vowel is short. There are, however, some exceptions to this rule:
+
+A vowel is long when the first consonant following it is [p t k s] and the second [v j r], e.g. esja, vepja, akrar, vökvar, tvisvar.
+A vowel is usually kept long in one syllable morphemes or words ending in [p t k s]; notably in:
+Compounds, e.g. matmál, skipsskrokkur.
+Though the morpheme boundary may be blurred and words such as Ísland and its derivatives have both variants.
+The usage is also indecise for the non-compound verbs vitka 'to grow wiser' and litka 'to stain'.
+Word + preposition sequences, e.g. mat með.
+Genitives, e.g. báts, skaks.
+Alternatively influenced by the s, e.g. báts [ˈpau(t)sː], skips [ˈscɪfs], skaks [ˈskaxs] (alongside [ˈpauːts], [ˈscɪːps], [ˈskaːks]).
+
+
+=== Consonants ===
+
+
+== Code pages ==
+The alphabet is included in Unicode, in code page 861. Historically, Icelandic text was supported by ISO 8859-1, followed by Windows-1252, which added various characters unrelated to Icelandic. ISO 8859-15 also includes support for Icelandic characters. 
+
+
+== See also ==
+Icelandic Encyclopedia A–Ö
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+"Phonetic Transcription Guideline: Icelandic" (PDF). Archived from the original (PDF) on 24 August 2022.

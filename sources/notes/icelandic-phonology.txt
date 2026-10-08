@@ -1,0 +1,233 @@
+{"kind":"language","title":"Icelandic phonology","revid":1378877867,"timestamp":"2026-10-06T17:41:55Z","url":"https://en.wikipedia.org/w/index.php?title=Icelandic_phonology&oldid=1378877867","license":"CC BY-SA 4.0, Wikipedia contributors"}
+Unlike many languages, Icelandic has only very minor dialectal differences in sounds. The language has both monophthongs and diphthongs, and many consonants can be voiced or unvoiced.
+Icelandic has an aspiration contrast between plosives, rather than a voicing contrast, similar to Faroese, Danish and Standard Mandarin. Preaspirated voiceless stops are also common. However, fricative and sonorant consonant phonemes exhibit regular contrasts in voice, including in nasals (rare in the world's languages). Additionally, length is contrastive for consonants, but not vowels. In Icelandic, the main stress is always on the first syllable.
+
+
+== Consonants ==
+
+The number and nature of the consonant phonemes in modern Icelandic is subject to broad disagreement, due to a complex relationship among consonant allophones.
+
+
+=== Major allophones ===
+Even the number of major allophones is subject to some dispute, although less than for phonemes. The following is a chart of potentially contrastive phones (important phonetic distinctions which minimally contrast in some positions with known phonemes; not a chart of actual phonemes), according to one analysis (Thráinsson 1994):
+
+/tʰ, t, n̥, n/ are dental [t̪ʰ, t̪, n̪̊, n̪], whereas /l̥, l/ are alveolar, [l̥, l].
+/s/ is an apical alveolar sibilant fricative, whereas /θ, ð/ are alveolar non-sibilant fricatives [θ̠, ð̠]. The former is laminal, while the latter is usually apical. They are broadly transcribed with ⟨θ, ð⟩, which nominally denote dental fricatives.
+Voiceless continuants /f, s, θ, ç, x, h/ are always constrictive [f, s̺, θ̠, ç, x, h], while the voiced continuants /v, ð, j, ɣ/  are not very constrictive and can approach approximant realizations [ʋ, ð̠˕, j, ɣ˕], and may even be deleted altogether (similar to what happened in Faroese).
+The rhotic consonants may either be trills [r̥, r] or taps [ɾ̥, ɾ], depending on the speaker.
+Acoustic analysis reveals that the voiceless lateral approximant [l̥] is realized with considerable frication, i. e. essentially as a voiceless alveolar lateral fricative [ɬ].
+/ll/ is pronounced as [tɬ] before a pause.
+Word final consonants are sometimes devoiced.
+/tl/ is sometimes realized as [tɬ].
+Scholten (2000) includes three extra phones, namely the glottal stop [ʔ], voiceless velarized alveolar lateral approximant [ɫ̥] and its voiced counterpart [ɫ].
+[ɫ] appears when an underlying /ɣ/ is elided, e.g. volgna '(to) heat up'.
+[ʔ] occurs as a demarcator before stressed vowels in "empty" onsets and more rarely before utterance initial consonant in formal context where it has been qualified as "functioning as a sort of upbeat". Another source of glottal stop for some speaker is the Icelandic phonology#Debbucalisation of stops before /l, n/ (or höggmæli).
+A large number of competing analyses have been proposed for Icelandic phonemes. The problems stem from complex but regular alternations and neutralisations among the above phones in various positions.
+
+
+=== Alternations ===
+Examples of alternations across different positions:
+
+[pʰ], [f]: tæp [ˈtʰaiːp] 'uncertain fem.', tæpt [ˈtʰaift] 'uncertain neut'
+[p], [f], [v]: grafa [ˈkraːva] 'to dig'; grafta [ˈkrafta] 'of diggings'; grafna [ˈkrapna] 'dug'
+[k], [x], [ɣ], [j]: segi [ˈsɛijɪ] '[I] say', sagt [ˈsaxt] '[was] said', sagði [ˈsaɣðɪ] '[I] said', sagna [ˈsakna] 'of stories'
+Voiced consonants are devoiced word-finally before a pause, so that dag 'day (acc.)' is pronounced [ˈtaːx], baðið 'the bath (nom.)' is pronounced [ˈpaːðɪθ], and gaf 'gave (1/3 pers. sg.)' is pronounced [ˈkaːf]. Even sonorants can be affected: dagur [ˈtaːɣʏr̥] 'day (nom.sg.)', ketil [ˈcʰɛːtɪl̥] 'kettle (acc.)'.
+
+
+=== Restrictions ===
+
+
+==== Dorsal consonants (velar, palatal, glottal) ====
+The glottal fricative [h] only occurs initially before a vowel, and following a vowel in the sequences [hp ht hk hc]. These latter sequences are sometimes said to be unitary "pre-aspirated" stops; see below.
+The voiceless velar fricative [x] occurs only between a vowel and [s] or [t], and initially as a variant of [kʰ] before [v]. Because it does not contrast with [kʰ] in either position, it can be seen as an allophone of /kʰ/. However, it also alternates with [ɣ], occurring before a pause where [ɣ] would be pronounced otherwise.
+There are two sets of palatal sounds. "Alternating palatals" [c cʰ j] alternate with the velars [k kʰ x ɣ], while "non-alternating palatals" [ç j] do not. Note that [j] appears twice here; these two [j]'s behave differently, occur in different distributions, and are denoted by different letters (g and j). This suggests that they may belong to different phonemes, and that is indeed a common analysis.
+In general, the alternating palatals [c cʰ j] are restricted to appearing before vowels. Velars [k kʰ x ɣ] are restricted to appearing everywhere except before front vowels. In other words: Before back vowels and front rounded vowels, both palatals and velars can appear; before front unrounded vowels only palatals can appear; before consonants only velars can appear.
+For the non-alternating palatals [ç j]: Both can appear at the beginning of a word, followed by a vowel. Elsewhere, only one can occur, which must occur after a non-velar, non-palatal consonant. [j] occurs before a vowel, and [ç] occurs in a few words at the end of a word following [p t k s].
+The velars and alternating palatals are distributed as follows:
+
+Initially or at beginning of syllable: Only the four stops [kʰ k cʰ c] can appear.
+After [s] that begins a syllable: only [k c].
+Between vowels: only [k ɣ c j].
+After a vowel, finally or before [v] or [r]: only [kʰ ɣ].
+After a vowel, before [ð]: only [ɣ].
+After a vowel, before [l]: only [k].
+After a vowel, before nasals: only [kʰ k].
+After a vowel, before [s t]: only [x].
+Although the facts are complex, it can be noticed that [ɣ] only ever contrasts with one of the two velar stops, never with both, and hence can be taken as an allophone of whichever one doesn't appear in a given context. Alternatively, following the orthography, [ɣ] can be taken as an allophone of /ɡ/, where [k] is taken as an allophone of either /k/ or /ɡ/ depending on context, following the orthography.
+
+
+==== Alveolar non-sibilant fricatives ====
+In native vocabulary, the fricatives [θ] and [ð] are allophones of a single phoneme /θ/. [θ] is used morpheme-initially, as in þak [ˈθaːk] 'roof', and when devoiced, such as neaby an aspirated plosive (in Southern accents), e.g. in maðkur [ˈmaθkʏr̥] 'worm'. [ð] is used elsewhere: intervocalically as in iða [ˈɪːða] 'vortex' or word-finally, as in bað [ˈpaːð] 'bath', although it is devoiced before a pause. Some loanwords (mostly from Classical Greek) have introduced the phone [θ] in intervocalic environments, as in Aþena [ˈaːθɛna] 'Athens'.
+The phone [θ] is a laminal voiceless alveolar non-sibilant fricative [θ̠]. The corresponding voiced phone [ð̠] is similar, but is apical rather than laminal (Ladefoged & Maddieson 1996).
+
+
+==== Voiceless sonorants ====
+Of the voiceless sonorants [l̥ r̥ n̥ m̥ ɲ̊ ŋ̊], only the coronal [l̥ r̥ n̥] occur in word-initial position, for example in hné [ˈn̥jɛː] ('knee'). Between a consonant and a pause, adjacent to fortis obstruents, only the voiceless sonorants appear; elsewhere, only the voiced sonorants appear (exepted in the ambivalent sequence /tlV/). This makes it clear that [m̥ ɲ̊ ŋ̊] are non-phonemic.
+Initial voiceless sonorants are often pronounced with a fully voiced offset, with the onset closer to being whispery voiced. /hl, hr/ are also often fricated (almost systematically for non initial [l̥]). Recently, there has been an increasing tendency, especially among children, to pronounce initial hn as voiced, e.g. hnífur [ˈniːvʏr̥] ('knife') rather than standard [ˈn̥iːvʏr̥] as unmerged /hn/ has the longest period of voicedness and not access to frication to enhance contrast.
+
+
+==== Palatal and velar nasals ====
+The palatal nasals [ɲ̊ ɲ] appear before palatal stops and the velar nasals [ŋ̊ ŋ] before velar stops; in these positions, the alveolar nasals [n̥ n] do not occur. [ŋ] appears also before [l], [t] and [s] through the deletion of [k] in the consonant clusters [ŋkl] [ŋkt] [ŋks], and through the coalescence of the consonants [k] and [n] in the consonant clusters [knl] [knt] [kns]. The palatal nasals are clearly non-phonemic, although there is some debate about [ŋ] due to the common deletion and [k] coalescence of [kn].
+
+
+=== Aspiration and length contrasts (medial and final) ===
+Modern Icelandic is often said to have a rare kind of stops, the so-called pre-aspirated stops [ʰp ʰt ʰc ʰk] (e.g. löpp [ˈlœʰp] 'foot'), which occur only after a vowel and do not contrast with sequences [hp ht hc hk] (which do not occur in Icelandic). (Ladefoged & Maddieson 1996) note that phonetically, in Icelandic pre-aspirated stops the aspiration is longer than in normal post-aspirated stops, and is indistinguishable from sequences [hp ht hc hk] (or with [x] replacing [h]) occurring in other languages; hence, they prefer to analyze the pre-aspirated stops as sequences. 
+This makes for an amusing coincidence as Icelandic nótt, dóttir cognates with German Nacht, Tochter (although this easily breaks: hoppa-hoppe(l)n, kroppur-Kropf, sveppur-Schwamm, dökkur-dunkel). This is because in old Norse, inherited sequences of *h + *p, t, k merged with geminates (and lengthened the preceding vowel).
+Following vowels there is a complex alternation among consonant length, vowel length and aspiration. The following table shows the alternations in medial and final position (Ladefoged & Maddieson 1996):
+
+In most analyses, consonant length is seen as phonemic while vowel length is seen as determined entirely by environment, with long vowels occurring in stressed syllables before single consonants and before certain sequences formed of a consonant plus [v r j], and short vowels occurring elsewhere. Note that diphthongs also occur long and short.
+
+
+=== Phonemes ===
+
+As discussed above, the phones [m̥ ɲ̊ ŋ̊ ɲ x ð], probably [ɣ], and debatably [ŋ] are non-phonemic. Beyond this, there is a great deal of debate both about the number and identity of the phonemes in Icelandic and the mapping between phonemes and allophones.
+There are a number of different approaches:
+Phonetic vs. orthographic:
+
+The "phonetic" approach. This approach tries to stay as close as possible to the phonetics. This would assume, for example, that [k] and [kʰ] should be consistently analyzed in all contexts as phonemic /k/ and /kʰ/, respectively (or perhaps as an archiphoneme /K/ in positions where the two do not contrast), and that [hk] is a phonemic sequence /hk/ (or possibly a unitary pre-aspirated /ʰk/).
+The "orthographic" approach (e.g. Thráinsson 1978). This approach takes the orthography (i.e. the spelling) as approximately indicative of the underlying phonemes. This approach generally assumes, for example, phonemes /k/ and /ɡ/ which occur in accordance with the orthography (i.e. /k/ where written k, /ɡ/ where written g), where /k/ has allophones [kʰ], [k] and [x] depending on the context, and /ɡ/ has allophones [k], [ɣ] and [x]. [hk] is analyzed as /k/ or /kk/, while [kk] is analyzed as /ɡɡ/, again consistent with the orthography. A variant would assume that /k/ and /ɡ/ merge into an archiphoneme /K/ in contexts where the two cannot be distinguished, e.g. before /s/ or /t/, where both would be pronounced [x]. Note that in this approach, a particular phone will often be an allophone of different phonemes depending on context; e.g. [k] would be taken as /ɡ/ initially, but /k/ between vowels.
+Maximalist vs. minimalist:
+
+The "maximalist" approach. This approach generally takes the contrasting phones as unit phonemes unless there is a good reason not to. This would assume, for example, that the palatal stops [c cʰ], voiceless sonorants [l̥ r̥ n̥] and perhaps the velar nasal [ŋ] are separate phonemes, at least in positions where they cannot be analyzed as allophones of other unitary phonemes (e.g. initially for the voiceless sonorants, before /l/ and /s/ for the velar nasal).
+The "minimalist" approach. This approach analyzes phones as clusters whenever possible, in order to reduce the number of phonemes and (in some cases) better account for alternations. This would assume, for example, that the palatal stops, voiceless sonorants and velar nasal [ŋ] are phonemic clusters, in accordance with the orthography. In structuralist analyses, which passed out of vogue starting in the 1960s as generative approaches took off, even more extreme minimalist approaches were common. An example is (Haugen 1958). Although he presents more than one analysis, the most minimal analysis not only accepts all the clusters indicated in the orthography, but also analyzes the aspirates as sequences /bh/, /ɡh/, /dh/ (or /ph/, /kh/, /th/ depending on how the non-aspirate stops are analyzed) and reduces all vowels and diphthongs down to a set of 6 vowels.
+The main advantage of the phonetic approach is its simplicity compared with the orthographic approach. A major disadvantage, however, is that it results in a large number of unexplained lexical and grammatical alternations. Under the orthographic approach, for example (especially if a minimalist approach is also adopted), all words with the root sag-/seg- ('say') have a phonemic /ɡ/, despite the varying phones [k], [x], [ɣ], [j] occurring in different lexical and inflectional forms, and similarly all words with the root sak- ('blame') have a phonemic /k/, despite the varying phones [k], [kʰ], [hk]. Under the phonetic approach, however, the phonemes would vary depending on the context in complicated and seemingly arbitrary ways. Similarly, an orthographic analysis of three words for "white", hvítur hvít hvítt [ˈkʰviːtʏr̥] [ˈkʰviːt] [ˈkʰviht] (masc sg, fem sg, neut sg) as /kvitʏr/ /kvit/ /kvitt/ allows for a simple analysis of the forms as a root /kvit-/ plus endings /-ʏr/, /-/, /-t/ and successfully explains the surface alternation [iːt] [iːtʰ] [iht], which would not be possible in a strictly phonetic approach.
+Assuming a basically orthographic approach, the set of phonemes in Icelandic is as follows:
+
+The parentheses indicate phonemes present in a maximalist analysis but not a minimalist analysis.
+There is a particular amount of debate over the status of [c] and [cʰ]. A maximalist analysis sees them as separate phonemes (e.g. /ɟ/ and /c/, respectively), while in a minimalist analysis they are allophones of /k/ and /ɡ/ before front unrounded vowels, and of the sequences /kj/ and /ɡj/ before rounded vowels, in accordance with the orthography. The maximalist approach accords with the presence of minimal pairs like gjóla [ˈcouːla] ('light wind') vs. góla [ˈkouːla] ('howl') and kjóla [ˈcʰouːla] ('dresses') vs. kóla [ˈkʰouːla] ('cola'), along with general speakers' intuitions. However, the minimalist approach (e.g. Rögnvaldsson 1993) accounts for some otherwise unexplained gaps in the system (e.g. the absence of palatal/velar contrasts except before rounded vowels, and the absence of phonetic [j] after velars and palatals), as well as otherwise unexplained alternations between palatals and velars in e.g. segi [ˈseijɪ] ('[I] say') vs. sagði [ˈsaɣðɪ] ('[I] said'; assuming that [j] and [ɣ] are taken as allophones of palatal and velar stops, respectively). On the other hand, the number of such alternations is not as great as for stop vs. fricative alternations; most lexical items consistently have either velars or palatals.
+The voiceless sonorants are straightforwardly taken as allophones of voiced sonorants in most positions, because of lack of any contrast; similarly for /ç/ vs. /j/. On the other hand, [l̥ r̥ n̥ ç] do contrast with [l r n j] in initial position, suggesting that they may be phonemes in this position, consistent with a maximalist analysis. A minimalist analysis, however, would note the restricted distribution of these phonemes, the lack of contrast in this position with sequences [hl hr hn hj] and the fact that similar sequences [kl kr kn] do occur, and analyze [l̥ r̥ n̥ ç] as /hl hr hn hj/, in accordance with the orthography.
+The velar nasal /ŋ/ is clearly an allophone of [n] before a velar stop. When it occurs before [l] or [s] as a result of deletion of an intervening /k/, however, some scholars analyze it as a phoneme /ŋ/, while others analyze it as a sequence, e.g. /nɡ/.
+
+
+=== Aspiration ===
+In the standard dialect, the voiceless plosive phonemes p t k are normally postaspirated as [pʰ tʰ kʰ] if they occur at the beginning of a morpheme, but are never postaspirated in the non-initial position within a morpheme and are instead pronounced [p t k]. In particular, this makes the consonant pairs p/b and t/d homophones between vowels within a morpheme, though b and d tend not to occur in this position in Icelandic words inherited from Old Norse anyway. The aspiration does not always completely disappear, though:
+
+Geminated sequences pp tt kk within a morpheme become preaspirated [hp ht hk].
+Any of the sequences pn pl tn tl kn kl after a vowel within a morpheme become preaspirated [hpn hpl htn htl hkn hkl].
+In the sequences mp nt nk rk rp rt lp lt lk ðk within a morpheme, the second consonant is not postaspirated, but the first consonant becomes voiceless as another form of preaspiration, resulting in [m̥p n̥t ŋ̊k r̥p r̥t r̥k l̥p l̥t l̥k θk].
+But many of the dialects of northern Iceland, especially in the Eyjafjörður and Þingeyjarsýsla regions, may retain postaspiration of p t k as [pʰ tʰ kʰ] between vowels. Among Iceland's dialects, this feature is the most common surviving deviation from the standard dialect. Furthermore, in Þingeyjarsýsla and northeast Iceland, the sequences mp nt nk lp lk ðk within a morpheme before a vowel may retain a voiced pronunciation of their first consonant and a postaspirated pronunciation of their second consonant, resulting in [mpʰ ntʰ ŋkʰ lpʰ lkʰ ðkʰ]. This does not affect the sequences rp rt rk lt within a morpheme, which all dialects pronounce like the standard dialect.
+
+
+=== Pre-sonorant phenomena ===
+
+
+==== Velarisation ====
+If an alveolar sonorant is in cluster with an elided /ɣ/, it becomes velarised. 
+For example, this creates the (near) minimal pairs: veldi [ˈvɛltɪ] 'I would have chosen' – velgdi [ˈvɛɫtɪ] '(I would have) (luke)warmed up' and síldum [ˈsiltʏm] '(to) herrings' – sigldum [ˈsɪɫtʏm] '(we) sailed'.
+For /n/, this outputs the following: hringdi [ˈr̥iŋtɪ] '(I) rang' – rigndi [ˈrɪŋtɪ] '[it] rained'. As displayed, the process introduces a new surface phone [ɫ] and reintroduces (although not systematically) "thin vowels" before [ŋ].
+The velarisation does not cross word boundary though, as with many icelandic phenomena. gagndæmi 'counter example' is pronounced either as [ˈkakntaiˌmɪ] or [ˈkaktaiˌmɪ].
+
+
+==== Debbucalisation of stops ====
+Lenis stops (/p, t, k/) can be all debuccalised to a glottal stop ([ʔ]) when in coda position, preceding the sonorants /l/ or /n/. This phenomenon is referred to höggmæli 'chopped speech'. Examples: [çɛʔna]~[çɛˀtna]~[çɛtna] for hérna 'here', [vɛʔna]~[vɛˀkna]~[vɛkna] for vegna 'because'.
+
+
+== Vowels ==
+
+There is less disagreement over the vowel phonemes in Icelandic than the consonant phonemes. The Old Icelandic vowel system involving phonemic length was transformed to the modern system where phonetic length is automatically determined by the syllable structure. In the process of eliminating vowel length, however, relatively few vowel distinctions have been lost, as the loss of phonemic length has been offset by an increase in the number of quality distinctions and diphthongs.
+
+
+=== Monophthongs ===
+
+Due to flámæli trends in the 20th century, vowels /ɪ, ʏ/ and /ɛ, œ/ were swapped (or even merged into the mid series). However, this sound change has since then become highly stigmatised.
+
+/i, u/ are similar to the respective cardinal vowels [i, u].
+/ɪ, ʏ/ are phonetically near-close [ɪ, ʏ].
+/ɛ, œ, ɔ/ are true-mid monophthongs [ɛ̝, œ̝, ɔ̝] when short and opening diphthongs [eɛː, øœː, oɔː] (also transcribed as [ɪɛː, ʏœː, ʊɔː]) when long. The long allophones are typically transcribed [ɛː, œː, ɔː], also in this article.
+/œ, ʏ/ are traditionally indicated with rounded front vowel symbols, but they are actually rounded central vowels closer in backness to [ɵ̞, ʉ̞] respectively. /œ/ in particular is very close to a true schwa [ə], but rounded. This article uses the symbols /œ, ʏ/.
+/a/ is central [ä] (which can also be represented as [ɐ̞] or [ɑ̈]).
+
+
+=== Diphthongs ===
+
+Whereas the monophthong /a/ is a central vowel [ä], the diphthong /ai/ has a true front onset, [a] (which can also be represented as [æ̞]), while the diphthong /au/ has a back onset, [ɑ]. This article uses the common symbol /a/ for both onsets.
+The diphthongs [ɔi ʏi] do not exist outside certain sound reflexes and are effectively allophones of /ɔ ʏ/ respectively rather than true phonemes.
+/œi/ is phonetically [œy].
+
+
+=== "Thin" and "broad" vowels ===
+Traditionally, though, the two primary divisions of Icelandic vowels are not monophthongs and diphthongs, but "thin" (or grönn) and "broad" (or breið) vowels.
+
+"Thin" vowels include the monophthongs /a ɛ ɪ ɔ ʏ œ/, but not the close monophthongs /i u/.
+"Broad" vowels include all vowels that end in a close vowel, including the close monophthongs /i u/ as well as all diphthongs /ai au ei œi ou/.
+These distinctions are involved in certain productive phonotactic processes in the standard language, especially where "thin" vowels are strengthened to "broad" vowel counterparts before gi and before ng or nk. Each "thin" vowel is associated with one primary "broad" vowel counterpart ending in either /i/ or /u/, which is the productive reflex before ng and nk. Where the primary "broad" vowel ends in /u/, each "thin" vowel also has a secondary association with another "broad" vowel (or allophone) ending in /i/, which is the productive reflex before gi.
+
+
+=== Vowel length ===
+Vowel length is mostly predictable in Icelandic (Orešnik & Pétursson 1977). Stressed vowels (both monophthongs and diphthongs) are long:
+
+In one-syllable words where the vowel is word-final:
+fá [ˈfauː] ('get')
+nei [ˈneiː] ('no')
+þú [ˈθuː] ('you' sg)
+Before a single consonant:
+fara [ˈfaːra] ('go')
+hás [ˈhauːs] ('hoarse')
+ég [ˈjɛːx] ('I')
+spyr [ˈspɪːr̥] ('I ask')
+Before any of the consonant clusters [pr tr kr sr], [pj tj kj sj], or [tv kv]. This is often shortened to the rule: If the first of the consonants is one of p, t, k, s and the second is one of j, v, r, then the vowel is long. This is known as the ptks+jvr-rule.
+lipra [ˈlɪːpra] ('agile' accusative feminine)
+sætra [ˈsaiːtra] ('sweet' genitive plural)
+akra [ˈaːkra] ('fields' accusative plural)
+hásra [ˈhauːsra] ('hoarse' genitive plural)
+vepja [ˈvɛːpja] ('lapwing')
+letja [ˈlɛːtja] ('dissuade')
+vekja [ˈvɛːca] ('awaken')
+Esja [ˈɛːsja] ('Esja')
+götva [ˈkœːtva] as in uppgötva ('discover')
+vökva [ˈvœːkva] ('water' verb)
+g shows a peculiar behavior. If we have the combination V+gi, then the vowel V is short and the gi is then pronounced [jɪ]. Additionally, non-diphthong vowels (besides /i/ and /u/) become diphthongs ending in /i/. In the combinations V+g+V (the second vowel not being i) the first vowel is long and g is pronounced [ɣ]. An example: logi [ˈlɔijɪ] ('flame', nominative singular) vs. logar [ˈlɔːɣar̥] ('flames', nominative plural)
+Before other consonant clusters (including the preaspirated stops [hp ht hk] and geminate consonants), stressed vowels are short. Unstressed vowels are always short.
+
+Karl [ˈkʰartl̥] ('Carl')
+standa [ˈstanta] ('stand')
+sjálfur [ˈsjaulvʏr̥] ('self')
+kenna [ˈcʰɛnːa] ('teach')
+fínt [ˈfin̥t] ('fine')
+loft [ˈlɔft] ('air')
+upp [ˈʏhp] ('up')
+yrði [ˈɪrðɪ] as in nýyrði ('neologism')
+ætla [ˈaihtla] ('will' verb)
+laust [ˈlœyst] ('loose')
+An exception occurs if there is a t before the suffix -k-. Examples are e. g. notkun and litka. There are also additional exceptions like um and fram where the vowel is short in spite of rules and en, where the vowel length depends on the context.
+
+
+== Reflexes between consonants and vowels ==
+A variety of phonotactic processes govern how Icelandic consonants and vowels assimilate with each other in speech.
+
+
+=== Palatalization of velars ===
+If any of the velar consonant sequences k g kk gg nk ng occur immediately before any of the front vowels /ɛ ei ɪ i/ or the consonant j /j/, and usually also before the diphthong æ /ai/, then the sequences' velar phones change into their corresponding palatal phones. In the case of j, the /j/ coalesces into the resulting palatal consonants and disappears. The velar phones remain velar before any of the non-front vowels /a au ɔ ou ʏ u œ œi/, as well as before certain instances of the diphthong /ai/ in foreign loanwords like gæd [kaiːt] 'guide'.
+
+
+=== Vowels before gi ===
+In the standard dialect, vowels immediately before gi [jɪ] within the same morpheme are pronounced phonetically short instead of phonetically long. Additionally, of these vowels, the monophthongs /a ɛ ɔ ʏ œ/ change into corresponding [i]-ending short diphthongs [ai ei ɔi ʏi œy], and /ɪ/ changes into [i] itself. This is the only usual circumstance in Icelandic where the diphthong phones [ɔi ʏi] can occur. This process does not occur in some dialects of southern Iceland, where the vowel may remain phonetically long and not change.
+
+
+=== Vowels before ng and nk ===
+In the standard dialect, before any of the palatal or velar nasal consonants [ɲ ɲ̊ ŋ ŋ̊] (which occur in the spellings ng and nk), the monophthongs /a ɛ ɔ œ/ become certain diphthongs [au ei ou œy], and the mid-close monophthongs /ɪ ʏ/ become corresponding close monophthongs [i u]. Existing diphthongs /ai au ei ou œi/ and existing close monophthongs /i u/ are not affected. Since ng and nk are consonant clusters that cannot occur at the beginning of a word or morpheme, all vowels immediately before them can only be phonetically short. This process does not occur in some dialects of the Westfjords.
+
+This seems to be an active phonological rule as alternations like gegna [ˈcɛkna] 'inf.' – gegndi [ˈceiŋtɪ] '1/3ps pst' (cf. Velarisation of /l/ and /n/) and langur [ˈlauŋkʏr̥] 'nom. m. sg.' – löngum [ˈlœyŋkʏm] 'dat. m. sg./dat. pl.' show. But the fact that is the most notable at the world level and the absence of "broadening" in rigna [ˈrɪkna] 'inf.' – rigndi [ˈrɪŋtɪ] '1/3ps pst' might just as well tell otherwise.
+
+
+== Sample ==
+
+
+=== Universal Declaration of Human Rights ===
+The following is a sample text of Article 1 of the Universal Declaration of Human Rights. The first line is the orthographic version; the second is the International Phonetic Alphabet transciption.
+
+
+=== The North Wind and the Sun ===
+The following is a sample text consisting of the first sentence of the fable "The North Wind and the Sun". The first line is the orthographic version; the second is the International Phonetic Alphabet transciption. Recordings are available on Jo Verhoeven's personal website.
+
+
+== Notes ==
+
+
+== Sources ==
+
+
+=== Citation ===
+
+
+=== Bibliography ===

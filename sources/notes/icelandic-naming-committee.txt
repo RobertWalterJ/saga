@@ -1,0 +1,41 @@
+{"kind":"language","title":"Icelandic Naming Committee","revid":1376188031,"timestamp":"2026-09-22T16:51:19Z","url":"https://en.wikipedia.org/w/index.php?title=Icelandic_Naming_Committee&oldid=1376188031","license":"CC BY-SA 4.0, Wikipedia contributors"}
+The Icelandic Naming Committee (Icelandic: Mannanafnanefnd; pronounced [ˈmanːaˌnapnaˌnɛmt])—also known in English as the Personal Names Committee—maintains an official register of approved Icelandic given names and governs the introduction of new given names into Icelandic culture.
+
+
+== Composition and mission ==
+The Naming Committee was established in 1991 to determine whether new given names not previously used in Iceland are suitable for integration into the country's language and culture. The committee comprises three appointees who serve for four years, appointed by the Minister of Justice—one to be nominated by the Icelandic language council within the Icelandic Language Committee, one by the faculty of philosophy of the University of Iceland, and one by the university's faculty of law.
+A name not already on the official list of approved names must be submitted to the naming committee for approval. A new name is considered for its compatibility with Icelandic tradition and for the likelihood that it might cause the bearer embarrassment. Under Article 5 of the Personal Names Act, names must be compatible with Icelandic grammar (in which all nouns, including proper names, have grammatical gender and change their forms in an orderly fashion according to the language's case system). Names must also contain only letters occurring in the Icelandic alphabet, and with only occasional exceptions, a name's grammatical gender previously had to match the sex of the person bearing the name.
+Foreigners and their children are allowed to keep their own names and loanwords from other languages are permitted. Loanwords must have other name bearers in the country and follow the grammar of the original language or have adjusted grammar for the Icelandic language.
+In 2019, the Icelandic parliament passed the Gender Autonomy Act (Icelandic: Lög um kynrænt sjálfræði), guaranteeing transgender and intersex individuals' right to gender self-identification, including the recognition of non-binary gender in law. To this effect, given names were no longer restricted by gender. Moreover, Icelanders who are officially registered as non-binary will be permitted to use the gender-neutral suffix -bur ("child") instead of -son or -dóttir.
+As of 2023, the Personal Names Register (Mannanafnaskrá) contained about 4,300 names.
+In 2020, the Icelandic Justice Minister, Áslaug Arna, proposed to abolish the Icelandic Naming Committee. The proposal only got one debate in the parliament, was passed to a committee and has not progressed since.
+
+
+== Controversies ==
+
+
+=== Jón Gnarr ===
+Jón Gnarr, former mayor of Reykjavík, protested the committee's denial of his request to legally drop "Kristinsson" from his name despite his desire to disassociate himself from his father. Gnarr pointed out that if Robert Mugabe moved to Iceland, as a foreigner he would be allowed to keep that non-conforming name, but that native Icelanders were not allowed to have non-conforming names. He was also unable to legally name his daughter "Camilla" after her grandmother; it was instead spelled "Kamilla" because C is not part of the Icelandic alphabet. Jón was allowed to legally change his name in 2015; however, Gnarr, the surname adopted by him and his children in 2005, was only recognized by the courts in 2018; it was legally considered a middle name before then.
+
+
+=== Blær Bjarkardóttir Rúnarsdóttir ===
+
+The committee refused to allow Blær Bjarkardóttir Rúnarsdóttir (born 1997) to be registered under the name given to her as a baby, on the grounds that the masculine noun blær ("gentle breeze" in Icelandic) could be used only as a man's name. Blær—identified in official records as Stúlka ("girl" in Icelandic)—and her mother, Björk Eiðsdóttir, challenged the committee's decision in court, arguing that Blær had been used by Nobel Prize–winning Icelandic author Halldór Laxness as the name of a female character in his 1957 novel The Fish Can Sing (Brekkukotsannáll). One other woman in Iceland was already registered at the time with the name Blær, and two declensions—one masculine and one feminine—exist for the name.
+On 31 January 2013, the Reykjavík district court ruled in the family's favour and overruled the naming committee, finding that Blær could in fact be both a man's and a woman's name and rejecting government claims that it was necessary to deny her request in order to protect the Icelandic language. After the court's decision, Iceland's interior minister confirmed that the government would accept the ruling and would not appeal the case to the country's Supreme Court. The chair of the naming committee, as well as a spokesman for the Ministry of the Interior, said the ruling in Blær's case could prompt the government to revisit the current laws on personal names.
+
+
+=== Duncan and Harriet Cardew ===
+The committee refused to accept the names of Duncan and Harriet Cardew—Icelandic-born children of a British father and an Icelandic mother—because their names did not meet the criteria for being added to the registry of approved names. The children had originally used passports with the substitute names Drengur (boy) and Stúlka (girl); however, in 2014, Icelandic authorities refused to renew Harriet's passport at all without a legally acceptable name. Since the Cardews were about to travel to France, they obtained emergency British passports for Duncan and Harriet; the parents also announced they would file a formal complaint objecting to the naming committee's rejection of their children's names and the passport office's refusal to renew their Icelandic passports. The Cardews announced in June 2016 that they had won their case and their children's names would be recognised.
+
+
+== References ==
+
+
+== Further reading ==
+Helen Zaltzman; Jón Gnarr; Sigurður Konráðsson (foreman of the committee) (19 October 2018). "Name v. Law". The Allusionist (Podcast). Radiotopia. (transcript)
+
+
+== External links ==
+List of names accepted and rejected by the Mannanafnanefnd at Island.is
+Mannanafnanefnd application form at Domsmalaraduneyti.is (in Icelandic)
+Larissa Kyzer: What’s in a Name? (article in English mentioning recent approvals and denials)
