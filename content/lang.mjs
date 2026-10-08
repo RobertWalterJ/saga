@@ -7,6 +7,7 @@ export const LANG = {
   name: 'Icelandic',
   native: 'íslenska',
   tatoeba: { sentences: 'isl_sentences.tsv', links: 'isl-eng_links.tsv' },
+  audio: { tatoeba: 'isl', ll: 'LL-Q294 (isl)-', old: 'Is-', kaikki: 'kaikki-is.jsonl', piper: { model: 'is_IS-salka-medium', label: 'Piper, Icelandic voice "Salka" (Talrómur, CC BY 4.0)' } },
   voice: { prefix: 'is', label: 'Icelandic' },
   stageCuts: [150, 400, 750, 1100, 1500],
   stageTitles: ['The first 150 words', 'Words 151–400', 'Words 401–750', 'Words 751–1,100', 'Words 1,101–1,500'],
